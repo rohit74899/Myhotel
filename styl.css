@@ -96,8 +96,8 @@ nav .fa{
     }
     .nav-links{
         position: fixed;
-        background: #f44336;
-        height: 100vh;
+        background: #36f43f;
+        height: 50vh;
         width: 200px;
         top: 0;
         right: -200;
